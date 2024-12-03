@@ -1,0 +1,10 @@
+{
+  "name": "com.alexanderasaturyan.batterystate",
+  "version": "1.0.0",
+  "displayName": "Battery State",
+  "description": "A package that gives information about device battery.",
+  "author": {
+    "name": "Alexander Asaturyan",
+    "email": "alexanderasaturyan@gmail.com"
+  }
+}
